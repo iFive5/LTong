@@ -19,7 +19,7 @@
 #### 添加以上数据之后，进入 actions ，点击绿色长条启用它，   
 ![QQ图片20210301054304](https://user-images.githubusercontent.com/79479594/109433119-1600f300-7a52-11eb-8ad2-0f7739d407c8.png)
   
-#### 进入日常任务daily-task，然后Enable Workflow启用工作流  
+#### 进入日常任务dailyask，然后Enable Workflow启用工作流  
 ![Snipaste_2021-03-01_05-46-47](https://user-images.githubusercontent.com/79479594/109433041-a428a980-7a51-11eb-8825-8f3e17813a53.png)
 
 #### 回到代码Code处，进入自述文档README.md,随意编辑它，比如删除此处的    。再点击下方绿色Commit changes保存。
